@@ -1,1 +1,0 @@
-# ncstclgix-ctf
