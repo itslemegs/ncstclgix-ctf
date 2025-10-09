@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Dashboard</h2>
+{{ flag_section|safe }}
+<form method="POST">
+    <div>
+        <label>URL to shorten:</label>
+        <input type="url" name="url" required>
+    </div>
+    <div>
+        <label>Custom code (optional):</label>
+        <input type="text" name="custom_code">
+    </div>
+    <input type="submit" value="Shorten URL">
+</form>
+
+<div class="urls">
+    <h3>Your URLs:</h3>
+    {% for url in urls %}
+        <div class="url-item">
+            Short URL: <a href="/{{ url.short_code }}">{{ request.host_url }}{{ url.short_code }}</a><br>
+            Original URL: {{ url.original_url }}
+        </div>
+    {% endfor %}
+</div>
+{% endblock %} 
