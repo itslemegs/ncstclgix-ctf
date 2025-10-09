@@ -8,6 +8,7 @@
 
 **Category:** Web
 **Level:** Easy
+**Instance:** http://bmnzdgnsz2l4.playat.flagyard.com
 > We don't trust any URL shortener, so we decided to make our own.
 
 **Flag:** FlagY{a968fb526ce40dd7ccc9ad028ac3584d}
