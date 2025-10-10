@@ -24,5 +24,5 @@
 |10.|SecureView|Web|Easy||24.|Subo|PWN|Easy||
 |11.|Stealer|Web|Easy||25.|SigHacked|PWN|Easy||
 |12.|F4k3r|Reversing|Easy||26.|BabyLLL|Crypto|Easy||
-|13.|LMS|Web|Easy||27.|Double Proof|Crypto|Easy||
+|13.|[LMS](\[Web\]\[Week1\]LMS/)|Web|Easy|✅|27.|Double Proof|Crypto|Easy||
 |14.|kjrat|Reversing|Easy||
