@@ -13,5 +13,5 @@
 |2.|PhishyNote|Hard||8.|Locked Secrets|Medium||
 |3.|Compressed Confession|Easy||9.|Collector|Medium||
 |4.|Recon101|Hard||10.|Iced|Hard||
-|5.|[Phantom](Phantom/)|Easy|✅|11.|Matryoshka|Medium||
+|5.|[Phantom](Phantom/)|Easy|✅|11.|[Matryoshka](Matryoshka/)|Medium|✅|
 |6.|Cracky|Hard||12.|[QRRR!](QRRR!/)|Easy|✅|
