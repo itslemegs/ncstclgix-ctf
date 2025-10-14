@@ -6,7 +6,6 @@
 ```
 
 **Category:** Web
-<!-- **Level:** Easy -->
 **Instance:** http://bmnzdgnsz2l4.playat.flagyard.com
 > Ever wanted to hack the cloud and buy your way to glory? Welcome to GameCloud!
 

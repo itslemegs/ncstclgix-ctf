@@ -7,8 +7,6 @@
 ```
 
 **Category:** Crypto
-<!-- **Level:** Easy -->
-<!-- **Instance:** `nc 34.252.33.37 32034` -->
 > One number binds them both.
 
 **Flag:** FlagY{!_S33_You'r3_a_Cryptogrpaher_Ex3pert}

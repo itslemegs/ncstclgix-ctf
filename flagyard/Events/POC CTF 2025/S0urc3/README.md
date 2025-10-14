@@ -6,8 +6,6 @@
 ```
 
 **Category:** Reversing
-<!-- **Level:** Easy -->
-<!-- **Instance:** http://bmnzdgnsz2l4.playat.flagyard.com -->
 > Let's solve some basic Zig challenge
 
 **Flag:** FlagY{fc09b850ca2e755ebe6dda3c24b47299}

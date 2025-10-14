@@ -7,8 +7,6 @@
 ```
 
 **Category:** Reversing
-<!-- **Level:** Easy -->
-<!-- **Instance:** `nc 34.252.33.37 32034` -->
 > Free flag for everyone.
 
 **Flag:** FlagY{how_easy_peasy_is_this_?}
