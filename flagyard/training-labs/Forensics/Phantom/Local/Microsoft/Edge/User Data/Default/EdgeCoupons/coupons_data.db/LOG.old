@@ -1,0 +1,6 @@
+2024/09/03-12:02:05.818 1f70 Reusing MANIFEST C:\Users\mahmo\AppData\Local\Microsoft\Edge\User Data\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/09/03-12:02:05.819 1f70 Recovering log #4
+2024/09/03-12:02:05.819 1f70 Reusing old log C:\Users\mahmo\AppData\Local\Microsoft\Edge\User Data\Default\EdgeCoupons/coupons_data.db/000004.log 
+2024/09/03-12:03:05.991 594 Level-0 table #8: started
+2024/09/03-12:03:05.995 594 Level-0 table #8: 636444 bytes OK
+2024/09/03-12:03:05.996 594 Delete type=0 #4

@@ -1,0 +1,138 @@
+2024-09-03::12:07:11::474	GetEligibleDriverDetailsSize                      :56  		Get eligible drivers Size started---------------------
+
+2024-09-03::12:07:11::485	ADDL::getURLVersionJSON                           :2187	DEBUG	No Server Ip found
+
+2024-09-03::12:07:11::485	ADDL::getURLVersionJSON                           :2198	DEBUG	No Servertype found
+
+2024-09-03::12:07:11::485	ADDL::isVersionCompatible                         :866 	DEBUG	Downloading a file from server: . Download destination: C:\Users\mahmo\AppData\Local//AMD_Common//addl_details.json
+
+2024-09-03::12:07:11::485	ADDL::open_json                                   :1200		failed to open json fileC:\Users\mahmo\AppData\Local//AMD_Common//addl_details.json
+
+2024-09-03::12:07:11::485	ADDL::isVersionCompatible                         :999 		failed to parse downloaded version.json file
+
+2024-09-03::12:07:11::485	ADDL::validateInput                               :237 	DEBUG	 Failed to download Version.json from server 
+
+2024-09-03::12:07:11::485	GetEligibleDriverDetailsSize                      :70  	DEBUG	validation failed
+
+2024-09-03::12:07:11::490	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::12:07:11::490	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::12:07:11::490	performNewComponentsJsonDownload                  :2039	DEBUG	Successfully waited for new data
+
+2024-09-03::12:07:11::490	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::12:07:11::490	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::12:07:11::490	ADDL::checkURLFormat                              :74  	DEBUG	No serverIp is found
+
+2024-09-03::12:07:11::490	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1607	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2024-09-03::12:07:11::490	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1617	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2024-09-03::12:07:11::490	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1621	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-03::12:07:11::490	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1623	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-03::12:07:12::422	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1660	DEBUG	Filesize of NewComponents.json is 16414. Modified 2024-07-15 14:26:36.000 UTC
+
+2024-09-03::12:07:12::424	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1775	DEBUG	Completed download. Total bytes downloaded: 16414
+
+2024-09-03::12:07:12::434	IsSmartBlurAvailableIMPL                          :2207		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2024-09-03::12:07:12::434	AdditionalApplications::CheckIfToolIsAvaliable    :665 		Check for display driver: 23 10 18 23
+
+2024-09-03::12:07:12::434	AdditionalApplications::CheckIfToolIsAvaliable    :666 		min required driver: 22 10 0 0
+
+2024-09-03::12:07:12::434	AdditionalApplications::CheckIfToolIsAvaliable    :667 		max required driver: 99 99 65535 65535
+
+2024-09-03::12:07:12::434	AdditionalApplications::CheckIfToolIsAvaliable    :695 	DEBUG	Found supported device for AMD Privacy View: 1002 1638 C1 8864103C
+
+2024-09-03::12:07:12::434	AdditionalApplications::CheckIfToolIsAvaliable    :717 		Latest AMD Privacy View = 1.2.1.0
+
+2024-09-03::12:07:22::847	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::12:07:22::847	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::12:07:22::847	IsSmartBlurAvailableIMPL                          :2207		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2024-09-03::12:07:22::847	AdditionalApplications::CheckIfToolIsAvaliable    :665 		Check for display driver: 23 10 18 23
+
+2024-09-03::12:07:22::847	AdditionalApplications::CheckIfToolIsAvaliable    :666 		min required driver: 22 10 0 0
+
+2024-09-03::12:07:22::847	AdditionalApplications::CheckIfToolIsAvaliable    :667 		max required driver: 99 99 65535 65535
+
+2024-09-03::12:07:22::847	AdditionalApplications::CheckIfToolIsAvaliable    :695 	DEBUG	Found supported device for AMD Privacy View: 1002 1638 C1 8864103C
+
+2024-09-03::12:07:22::847	AdditionalApplications::CheckIfToolIsAvaliable    :717 		Latest AMD Privacy View = 1.2.1.0
+
+2024-09-03::12:17:52::166	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::12:17:52::166	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::12:17:52::174	IsSmartBlurAvailableIMPL                          :2207		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2024-09-03::12:17:52::174	AdditionalApplications::CheckIfToolIsAvaliable    :665 		Check for display driver: 23 10 18 23
+
+2024-09-03::12:17:52::174	AdditionalApplications::CheckIfToolIsAvaliable    :666 		min required driver: 22 10 0 0
+
+2024-09-03::12:17:52::174	AdditionalApplications::CheckIfToolIsAvaliable    :667 		max required driver: 99 99 65535 65535
+
+2024-09-03::12:17:52::174	AdditionalApplications::CheckIfToolIsAvaliable    :695 	DEBUG	Found supported device for AMD Privacy View: 1002 1638 C1 8864103C
+
+2024-09-03::12:17:52::174	AdditionalApplications::CheckIfToolIsAvaliable    :717 		Latest AMD Privacy View = 1.2.1.0
+
+2024-09-03::12:17:52::270	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::12:17:52::270	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::12:17:52::277	IsSmartBlurAvailableIMPL                          :2207		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2024-09-03::12:17:52::277	AdditionalApplications::CheckIfToolIsAvaliable    :665 		Check for display driver: 23 10 18 23
+
+2024-09-03::12:17:52::277	AdditionalApplications::CheckIfToolIsAvaliable    :666 		min required driver: 22 10 0 0
+
+2024-09-03::12:17:52::277	AdditionalApplications::CheckIfToolIsAvaliable    :667 		max required driver: 99 99 65535 65535
+
+2024-09-03::12:17:52::277	AdditionalApplications::CheckIfToolIsAvaliable    :695 	DEBUG	Found supported device for AMD Privacy View: 1002 1638 C1 8864103C
+
+2024-09-03::12:17:52::277	AdditionalApplications::CheckIfToolIsAvaliable    :717 		Latest AMD Privacy View = 1.2.1.0
+
+2024-09-03::15:09:02::396	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::15:09:02::396	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::15:09:02::400	performNewComponentsJsonDownload                  :2039	DEBUG	Successfully waited for new data
+
+2024-09-03::15:09:02::400	getNewComponentsDetailsJsonURL                    :35  	DEBUG	No Server Ip found
+
+2024-09-03::15:09:02::400	getNewComponentsDetailsJsonURL                    :43  	DEBUG	No Servertype found
+
+2024-09-03::15:09:02::401	ADDL::checkURLFormat                              :74  	DEBUG	No serverIp is found
+
+2024-09-03::15:09:02::401	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1607	DEBUG	hconnet - /drivers/installer/json/NewComponents.json
+
+2024-09-03::15:09:02::401	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1617	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 90000 milliseconds: Result = 1 0
+
+2024-09-03::15:09:02::401	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1621	DEBUG	Setting INTERNET_OPTION_SEND_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-03::15:09:02::401	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1623	DEBUG	Setting INTERNET_OPTION_RECEIVE_TIMEOUT to 30000 milliseconds: Result = 1 0
+
+2024-09-03::15:09:03::560	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1660	DEBUG	Filesize of NewComponents.json is 16414. Modified 2024-07-15 14:26:36.000 UTC
+
+2024-09-03::15:09:03::560	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1696	DEBUG	Filesize of NewComponents.json is 16414. Modified 2024-07-15 14:26:36.000 UTC
+
+2024-09-03::15:09:03::560	ADDL::downloadFileFromInternetIfUpdateAvaliable   :1700	DEBUG	Cached file up to date
+
+2024-09-03::15:09:03::567	IsSmartBlurAvailableIMPL                          :2207		CheckIfToolIsAvaliable for AMD PrivacyView
+
+2024-09-03::15:09:03::567	AdditionalApplications::CheckIfToolIsAvaliable    :665 		Check for display driver: 23 10 18 23
+
+2024-09-03::15:09:03::567	AdditionalApplications::CheckIfToolIsAvaliable    :666 		min required driver: 22 10 0 0
+
+2024-09-03::15:09:03::567	AdditionalApplications::CheckIfToolIsAvaliable    :667 		max required driver: 99 99 65535 65535
+
+2024-09-03::15:09:03::567	AdditionalApplications::CheckIfToolIsAvaliable    :695 	DEBUG	Found supported device for AMD Privacy View: 1002 1638 C1 8864103C
+
+2024-09-03::15:09:03::567	AdditionalApplications::CheckIfToolIsAvaliable    :717 		Latest AMD Privacy View = 1.2.1.0
+

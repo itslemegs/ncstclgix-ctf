@@ -1,0 +1,42 @@
+[0902/155925.677:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0902/155925.677:VERBOSE1:setup_main.cc(1381)] system install is 1
+[0902/155925.683:VERBOSE1:installer_state.cc(87)] Install Chrome
+[0902/155925.706:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[0902/155925.707:VERBOSE1:install_worker.cc(1059)] Adding unregistration items for per-user Metro keys.
+[0902/155925.707:VERBOSE1:work_item_list.cc(32)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0902/155925.707:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0902/155925.707:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0902/155925.707:VERBOSE1:work_item_list.cc(53)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0902/155925.707:VERBOSE1:install.cc(533)] Launching ""C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=1 --install-level=0" to create shortcuts
+[0902/155925.721:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=1 --install-level=0
+[0902/155925.721:VERBOSE1:setup_main.cc(1381)] system install is 1
+[0902/155925.722:VERBOSE1:installer_state.cc(87)] Install Chrome
+[0902/155925.743:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[0902/155925.745:VERBOSE1:install.cc(122)] Creating per-user Desktop "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0902/155925.745:VERBOSE1:install.cc(122)] Creating per-user Quick Launch "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0902/155925.773:VERBOSE1:install.cc(122)] Creating per-user Start menu "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe and pinning to the taskbar.
+[0902/155925.888:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\8484_13369755565875651.pma
+[0902/155925.892:VERBOSE1:install.cc(549)] Shortcut creation process succeeded.
+[0902/155925.911:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\10808_13369755565900666.pma
+[0903/120153.726:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level
+[0903/120153.726:VERBOSE1:setup_main.cc(1381)] system install is 1
+[0903/120153.726:VERBOSE1:installer_state.cc(87)] Install Chrome
+[0903/120153.755:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[0903/120153.763:VERBOSE1:install_worker.cc(1059)] Adding unregistration items for per-user Metro keys.
+[0903/120153.763:VERBOSE1:work_item_list.cc(32)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0903/120153.763:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0903/120153.763:VERBOSE1:registry_util.cc(23)] Deleting registry key Software\BraveSoftware\Brave-Browser\Metro
+[0903/120153.763:VERBOSE1:work_item_list.cc(53)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0903/120153.776:VERBOSE1:install.cc(533)] Launching ""C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=2 --install-level=0" to create shortcuts
+[0903/120153.791:VERBOSE1:setup_main.cc(1375)] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\128.1.69.160\Installer\chrmstp.exe" --system-level --verbose-logging --installerdata="C:\Program Files\BraveSoftware\Brave-Browser\Application\initial_preferences" --create-shortcuts=2 --install-level=0
+[0903/120153.791:VERBOSE1:setup_main.cc(1381)] system install is 1
+[0903/120153.793:VERBOSE1:installer_state.cc(87)] Install Chrome
+[0903/120153.810:VERBOSE1:install_util.cc(247)] Windows NT 10.0.22631
+[0903/120153.813:VERBOSE1:install.cc(122)] Overwriting per-user Desktop "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0903/120153.829:WARNING:install.cc(120)] Failed: Overwriting (maybe the shortcut doesn't exist?) per-user Desktop "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0903/120153.829:VERBOSE1:install.cc(122)] Overwriting per-user Quick Launch "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0903/120153.928:VERBOSE1:install.cc(122)] Overwriting per-user Start menu "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0903/120153.928:WARNING:install.cc(120)] Failed: Overwriting (maybe the shortcut doesn't exist?) per-user Start menu "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[0903/120153.928:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\8644_13369827713928037.pma
+[0903/120153.928:VERBOSE1:install.cc(549)] Shortcut creation process succeeded.
+[0903/120153.952:ERROR:persistent_histogram_storage.cc(146)] Persistent histograms fail to write to file: C:\Program Files\BraveSoftware\Brave-Browser\Application\SetupMetrics\8964_13369827713946228.pma

@@ -1,0 +1,11 @@
+
+[*WMC Logging begun at 2024/09/02 - 05:43:23.  Logging at level: '4'.  OS is NT.  OSVer is 10.0.22631.0.3672. System Lang is 1033. Prev version system is 12.0.22621.2506. Setup version 12.0.22621.1.]
+Checking for Playlist Obfuscation.
+Playlist location not obfuscated. Doing Obfuscation now.
+Obfuscation for Playlist location succeeded.
+Current command line: '/FirstLogon'.
+
+[*WMC Logging begun at 2024/09/02 - 05:43:24.  Logging at level: '4'.  OS is NT.  OSVer is 10.0.22631.0.3672. System Lang is 1033. Prev version system is 12.0.22621.2506. Setup version 12.0.22621.1.]
+Checking for Playlist Obfuscation.
+Playlist location already obfuscated.
+Current command line: '/FirstLogon'.
