@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+      <DeepLink>Microsoft.BackupAndRestore</DeepLink>
+      <Icon>%SystemRoot%\System32\sdcpl.dll,-1</Icon>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>{B98A2BEA-7D42-4558-8BD1-832F41BAC6FD}</PageID>
+      <HostID>{7E0522FC-1AC4-41CA-AFD0-3610417A9C41}</HostID>
+      <Condition>shcond://v1#RegkeyExists;0;Regkey;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{B98A2BEA-7D42-4558-8BD1-832F41BAC6FD}</Condition>
+    </SettingIdentity>
+    <SettingInformation>
+      <Name>@%SystemRoot%\System32\sdcpl.dll,-101#immutable1</Name>
+      <Description>@%SystemRoot%\System32\sdcpl.dll,-101#immutable1</Description>
+      <HighKeywords>@%SystemRoot%\System32\sdcpl.dll,-100#immutable1</HighKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

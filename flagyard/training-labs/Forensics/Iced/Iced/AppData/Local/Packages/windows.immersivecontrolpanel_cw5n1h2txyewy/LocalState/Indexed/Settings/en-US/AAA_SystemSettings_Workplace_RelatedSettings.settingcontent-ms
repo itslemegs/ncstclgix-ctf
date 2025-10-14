@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageNetworkWorkplace</PageID>
+      <SettingID>SystemSettings_Workplace_RelatedSettings</SettingID>
+      <GroupID>SettingsWorkplaceEnthusiast</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Workplace_RelatedSettings/Description}</Description>
+      <HighKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Workplace_RelatedSettings/HighKeywords}</HighKeywords>
+      <Keywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Workplace_RelatedSettings/Keywords}</Keywords>
+      <LowKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Workplace_RelatedSettings/LowKeywords}</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

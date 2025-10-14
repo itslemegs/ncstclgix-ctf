@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="9" xOffset="0" scrollWidth="2396648" startPos="299909" endPos="299909" selMode="0" offset="0" wrapCount="1324" lang="HTML" encoding="-1" userReadOnly="no" filename="C:\Users\Marwan Elshafei\Desktop\suspicious_files\downloader.html" backupFilePath="" originalFileLastModifTimestamp="-2090839424" originalFileLastModifTimestampHigh="31051068" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="568" startPos="581" endPos="581" selMode="0" offset="0" wrapCount="1" lang="PowerShell" encoding="-1" userReadOnly="no" filename="C:\Users\Marwan Elshafei\Desktop\install.ps1" backupFilePath="" originalFileLastModifTimestamp="-479354408" originalFileLastModifTimestampHigh="31109559" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2396648" startPos="534" endPos="534" selMode="0" offset="0" wrapCount="4" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\Marwan Elshafei\Desktop\ctf\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\B8041CEBB05BB6256C3C9C2291CFDA4B" backupFilePath="" originalFileLastModifTimestamp="-153178350" originalFileLastModifTimestampHigh="31123057" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

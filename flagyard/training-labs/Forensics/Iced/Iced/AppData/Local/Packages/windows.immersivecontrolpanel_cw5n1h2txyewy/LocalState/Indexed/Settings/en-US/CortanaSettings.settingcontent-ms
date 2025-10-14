@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+      <DeepLink>ms-cortana://StartMode=Settings&amp;QuerySource=SettingsSearch</DeepLink>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>{8B3E2CA3-F2D0-43DE-955C-0326AB69CE8F}</PageID>
+      <HostID>{8B3E2CA3-F2D0-43DE-955C-0326AB69CE8F}</HostID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@shell32.dll,-51441</Description>
+      <HighKeywords>@shell32.dll,-51442</HighKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

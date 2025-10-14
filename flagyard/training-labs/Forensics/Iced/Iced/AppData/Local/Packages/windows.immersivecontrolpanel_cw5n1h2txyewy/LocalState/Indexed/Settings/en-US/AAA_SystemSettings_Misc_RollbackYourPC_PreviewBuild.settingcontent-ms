@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageRestoreRestore</PageID>
+      <SettingID>SystemSettings_Misc_RollbackYourPC_PreviewBuild</SettingID>
+      <GroupID>SettingsGroupRestoreRestoreRollbackPCPreviewBuild</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Misc_RollbackYourPC_PreviewBuild/Description}</Description>
+      <HighKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Misc_RollbackYourPC_PreviewBuild/HighKeywords}</HighKeywords>
+      <Keywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Misc_RollbackYourPC_PreviewBuild/Keywords}</Keywords>
+      <LowKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Misc_RollbackYourPC_PreviewBuild/LowKeywords}</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

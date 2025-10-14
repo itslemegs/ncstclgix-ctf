@@ -1,0 +1,31 @@
+﻿CACHE MANIFEST
+# Version:d03c1acc
+CACHE:
+/AS/API/WindowsCortanaPane/V2/Init
+/devicecontent
+/rms/Ajax.Bundle/jc/e2d6f5b9/afad0936.js?bu=rms+answers+AjaxSerp+Core%24ajax.shared%2cThreshold%24ajax.history.threshold%2cCore%24ajax.render%2cCore%24ajax.providers%2cCore%24ajax.lifeCycle%2cCore%24Providers%24ajax.provider.threshold
+/rms/BingCore.Bundle/jc/4e3d6870/07801425.js?bu=rms+answers+Shared+BingCore%24shared%2cBingCore%24env.override%2cBingCore%24event.custom.fix%2cBingCore%24event.native%2cBingCore%24dom%2cBingCore%24cookies_parser%2cBingCore%24XHRPrefetch%24rmsajax_xhrprefetch%2cBingCore%24ClientInstV2%24InstrumentationConfigThrdatasources%2cBingCore%24ClientInstV2%24LogUploadCapFeatureDisabled%2cBingCore%24ClientInstV2%24ClientInstConfigSeparateQFQueue%2cBingCore%24ClientInstV2%24clientinst_xls%2cEmpty%2cBingCore%24ClientInstV2%24LogHelper%2cBingCore%24ClientInstV2%24VisibilityChangeEventHelper%2cBingCore%24Animation%2cBingCore%24fadeAnimation%2cBingCore%24framework%2cBingCore%24ShowWebView%2cBingCore%24CoreUtilities
+/rms/BlueBrand/ortl,cc/1bea0f76/854b6456.css?bu=rms+answers+BrandBundle_Mobile+thbrand%24CombinedAsset_th_b%2cthbrand%24Colors_th_b%2cthbrand%24Type_th_b%2cthbrand%24Grid_th_b
+/rms/BlueHeader/ortl,cc/c57d0e76/50afa249.css?bu=rms+answers+BrandBundle_Mobile+thbrand%24Header_CombinedAsset%2cthbrand%24Header_Colors_th_b%2cthbrand%24Header_Type%2cthbrand%24Header_Grid_th_b
+/rms/BundledViews/jc/1c9317fc/9f0ba066.js?bu=rms+views+Shared+CenteredImagePair%2cAlertWrapper%2cFootnoteWrapper%2cGroupLabel%2cHorizontalList%2cHorizontalListItem%2cImagePair%2cImagePairWrapper%2cLegacyImagePair%2cRichCaptionControl%2cSelectItem%2cTitleWrapper%2cVerticalList%2cVerticalListItem%2cVerticalStackPanel%2cVerticalStackPanelItem
+/rms/BundledViews/jc/9aae38e9/2516c91d.js?bu=rms+views+Threshold+DenseTileLayout%2cErrorMessage%2cInlineError%2cItemList%2cItemTitle%2cLocalStrings%2cMyStuffHeader%2cMyStuffPhotoItem%2cPageCanvas%2cPagination%2cPlaceHolderImage%2cRecourse%2cRegion%2cResultItem%2cResultItemCentered%2cResultItemPosition%2cResultItemPositionItem%2cResultItemPrimaryPosition%2cResultItemSecondaryPosition%2cResultItemWideColumnPosition%2cSection%2cSectionContents%2cSpellCorrection%2cSpellerSuggestion%2cSubsectionHeader%2cInstLink
+/rms/Framework/jc/3b17cfbb/f8b1d38c.js?bu=rms+answers+BoxModel+config.threshold%2crules%24rulesThresholdv2%2ccore%2cmodules%24scroll%2cmodules%24resize%2cmodules%24state%2cmodules%24mutation%2cmodules%24error%2cmodules%24network%2cmodules%24cursor%2cmodules%24keyboard%2cmodules%24bot
+/rms/rms%20answers%20AutoSuggest%20Modules$Aggregators$FastRankModel/jc/a129a4d8/019ae10c.js
+/rms/rms%20answers%20AutoSuggest%20Modules$Aggregators$TopHitConfidenceModel/jc/8b3b3f0d/a2d42288.js
+/rms/rms%20answers%20AutoSuggest%20Partners$BingMDL2/ortl,cc/515fdb1f/73403ec2.css
+/rms/rms%20answers%20AutoSuggest%20Partners$CortanaMDL2/ortl,cc/feab239f/d1b50250.css
+/rms/rms%20localizationstrings%20AutoSuggest%20CortanaQF/jc/3879d3e3/24af6ca7.js
+/rms/rms%20localizationstrings%20Feedback%20LocStrings/jc/a7e49b91/99ff3224.js
+/rms/rms%20localizationstrings%20Threshold%20LocStrings/jc/55a809a1/8e06707b.js
+/rms/rms%20views%20AutoSuggest%20CortanaIcon/jc/7a5f01a7/530fee23.js
+/rms/rms%20views%20AutoSuggest%20HighlightedText/jc/e8ae0dba/25f0e9f6.js
+/rms/rms%20views%20AutoSuggest%20Icon/jc/ac3292a6/060f3809.js
+/rms/rms%20views%20AutoSuggest%20WindowsGroup/jc/e5d681a6/a154ba56.js
+/rms/rms%20views%20AutoSuggest%20WindowsGroups/jc/0e17ff5a/8bed40e8.js
+/rms/rms%20views%20AutoSuggest%20WindowsPermanentDisambig/jc/bdc6f7c3/8649feed.js
+/rms/rms%20views%20AutoSuggest%20WindowsSuggestionSingleLine/jc/1ef01986/4e3bcc88.js
+/rms/rms%20views%20AutoSuggest%20WindowsSuggestionThreeLines/jc/b5f7df1b/30f6bcb6.js
+/rms/rms%20views%20AutoSuggest%20WindowsTopResults/jc/7d8f5e79/c616155a.js
+/rms/SparkleFramework/jc/42426650/e7810346.js?bu=rms+serp+snr%24react-with-addons.min.source%2csnr%24Sparkle.source%2csnr%24Sparkle.React.source%2csnr%24ResourceManagement.source%2csnr%24Array_c.source%2csnr%24string_c.source
+NETWORK:
+*

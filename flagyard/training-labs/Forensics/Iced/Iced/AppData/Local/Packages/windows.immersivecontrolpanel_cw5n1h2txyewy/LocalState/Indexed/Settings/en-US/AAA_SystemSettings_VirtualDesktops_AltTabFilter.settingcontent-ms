@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageMultiTasking</PageID>
+      <SettingID>SystemSettings_VirtualDesktops_AltTabFilter</SettingID>
+      <GroupID>SettingsGroupVirtualDesktops</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_VirtualDesktops_AltTabFilter/Description}</Description>
+      <HighKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_VirtualDesktops_AltTabFilter/HighKeywords}</HighKeywords>
+      <Keywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_VirtualDesktops_AltTabFilter/Keywords}</Keywords>
+      <LowKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_VirtualDesktops_AltTabFilter/LowKeywords}</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

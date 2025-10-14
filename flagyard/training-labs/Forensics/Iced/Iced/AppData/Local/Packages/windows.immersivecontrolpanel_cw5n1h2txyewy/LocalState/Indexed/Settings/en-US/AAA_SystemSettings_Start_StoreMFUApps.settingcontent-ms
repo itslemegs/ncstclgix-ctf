@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageStart</PageID>
+      <SettingID>SystemSettings_Start_StoreMFUApps</SettingID>
+      <GroupID>SettingsGroupStartSystemArea</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Start_StoreMFUApps/Description}</Description>
+      <HighKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Start_StoreMFUApps/HighKeywords}</HighKeywords>
+      <Keywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Start_StoreMFUApps/Keywords}</Keywords>
+      <LowKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Start_StoreMFUApps/LowKeywords}</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

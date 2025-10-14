@@ -1,0 +1,9 @@
+@prefix b: <http://platform.bing.com/maps/> ;
+  geo: <http://www.opengis.net/ont/geosparql#> ;
+  geof: <http://www.opengis.net/ont/geosparql/function/> ;
+  k: <ms-knownFolders:///> ;
+  l: <https://apis.live.net/v5.0/> ;
+  p: <http://platform.bing.com/persons/> ;
+  rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
+  s: <http://schema.org/> .
+

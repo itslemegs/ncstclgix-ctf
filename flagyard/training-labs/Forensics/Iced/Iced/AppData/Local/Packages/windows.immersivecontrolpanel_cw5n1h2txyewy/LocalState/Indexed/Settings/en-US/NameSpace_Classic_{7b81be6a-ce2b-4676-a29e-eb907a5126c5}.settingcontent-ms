@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+      <DeepLink>Microsoft.ProgramsAndFeatures</DeepLink>
+      <Icon>%SystemRoot%\system32\imageres.dll,-87</Icon>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>{7b81be6a-ce2b-4676-a29e-eb907a5126c5}</PageID>
+      <HostID>{7E0522FC-1AC4-41CA-AFD0-3610417A9C41}</HostID>
+      <Condition>shcond://v1#RegkeyExists;0;Regkey;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{7b81be6a-ce2b-4676-a29e-eb907a5126c5}</Condition>
+    </SettingIdentity>
+    <SettingInformation>
+      <Name>@%systemroot%\system32\appwiz.cpl,-159#immutable1</Name>
+      <Description>@%systemroot%\system32\appwiz.cpl,-159#immutable1</Description>
+      <HighKeywords>@%systemroot%\system32\appwiz.cpl,-160#immutable1</HighKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

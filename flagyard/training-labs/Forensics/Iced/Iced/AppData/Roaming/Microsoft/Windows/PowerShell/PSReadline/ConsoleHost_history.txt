@@ -1,0 +1,47 @@
+cd 'C:\Users\Marwan Elshafei\Desktop\'
+ls
+& '.\SANS SEC401.pdf\'
+'.\SANS SEC401.pdf\'
+mv '.\SANS SEC401.pdf\' asd.bat
+.\asd.bat\
+.\asd.bat
+.\f.bat.cmd
+cd 'C:\Users\Marwan Elshafei\Desktop\'
+Get-FileHash .\download.zip
+cd 'C:\Users\Marwan Elshafei\Desktop\'
+ls
+.\Sysmon64.exe
+.\Sysmon64.exe -i .\sysmonconfig-export.xml
+.\Sysmon64.exe -i .\sysmonconfig-export.xml -accepteula
+.\Sysmon64.exe -accepteula -i .\sysmonconfig-export.xml
+.\Sysmon64.exe -accepteula -i \".\sysmonconfig-export.xml"
+.\Sysmon64.exe -accepteula -i ".\sysmonconfig-export.xml"
+.\Sysmon.exe
+.\Sysmon.exe -i .\sysmonconfig-export.xml
+cd .\sysmon\
+.\Sysmon64.exe -accepteula -i .\sysmonconfig-export.xml 
+ls
+.\Sysmona64.exe -accepteula -i .\sysmonconfig-export.xml 
+.\Sysmon64a.exe -accepteula -i .\sysmonconfig-export.xml 
+.\Sysmon64a.exe -accepteula -i .\sysmonconfig-export.xml 
+.\Sysmon64a.exe 
+.\Sysmon64.exe
+.\Sysmon64a.exe
+.\Sysmon64a.exe -accepteula -i .\sysmonconfig-export.xml 
+cd 'C:\Users\Marwan Elshafei\Desktop\'
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\install.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml -OutFile C:\Windows\config.xml
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml -OutFile C:\Windows\config.xml
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml" -OutFile C:\Windows\config.xml
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml" -OutFile "C:\Windows\config.xml"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml" -OutFile "C:\Windows\config.xml"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/olafhartong/sysmon-modular/master/sysmonconfig.xml" -OutFile "C:\Windows\config.xml"
+.\Sysmon64a.exe -accepteula -i .\sysmonconfig-export.xml 
+.\Sysmon64.exe -i .\sysmonconfig-export.xml
+.\Sysmon64.exe -i .\sysmonconfig-export.xml
+.\Sysmon64.exe -i .\sysmonconfig-export.xml
+.\Sysmon64.exe -accepteula -i .\sysmonconfig-export.xml 
+.\Sysmon64.exe -accepteula -i 'C:\Users\Marwan Elshafei\Desktop\sysmon\sysmonconfig-export.xml' 
+ls -lah
+ls 

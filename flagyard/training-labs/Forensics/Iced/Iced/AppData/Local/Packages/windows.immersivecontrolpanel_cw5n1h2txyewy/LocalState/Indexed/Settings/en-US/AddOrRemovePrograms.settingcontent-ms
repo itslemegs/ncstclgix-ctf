@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageAppsSizes</PageID>
+      <GroupID>SettingsGroupAppSizesList</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@shell32.dll,-24106</Description>
+      <HighKeywords>@@shell32.dll,-25077@shell32.dll,-25079@shell32.dll,-25081@shell32.dll,-25381</HighKeywords>
+      <Keywords>@shell32.dll,-25334</Keywords>
+      <LowKeywords>@shell32.dll,-25334</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>

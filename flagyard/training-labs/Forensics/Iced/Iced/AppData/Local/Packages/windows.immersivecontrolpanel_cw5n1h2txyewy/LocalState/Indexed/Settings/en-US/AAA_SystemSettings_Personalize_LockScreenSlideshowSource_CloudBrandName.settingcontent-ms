@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCSettings>
+  <SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+    <ApplicationInformation>
+      <AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+    </ApplicationInformation>
+    <SettingIdentity>
+      <PageID>SettingsPageLockScreen</PageID>
+      <SettingID>SystemSettings_Personalize_LockScreenSlideshowSource_CloudBrandName</SettingID>
+      <GroupID>SettingsGroupLockScreenPreview</GroupID>
+    </SettingIdentity>
+    <SettingInformation>
+      <Description>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Personalize_LockScreenSlideshowSource_CloudBrandName/Description}</Description>
+      <HighKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Personalize_LockScreenSlideshowSource_CloudBrandName/HighKeywords}</HighKeywords>
+      <Keywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Personalize_LockScreenSlideshowSource_CloudBrandName/Keywords}</Keywords>
+      <LowKeywords>@{windows?ms-resource://Windows.UI.SettingsAppThreshold/SearchResources/SystemSettings_Personalize_LockScreenSlideshowSource_CloudBrandName/LowKeywords}</LowKeywords>
+    </SettingInformation>
+  </SearchableContent>
+</PCSettings>
