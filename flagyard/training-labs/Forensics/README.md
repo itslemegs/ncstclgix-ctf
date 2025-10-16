@@ -14,4 +14,4 @@
 |3.|Compressed Confession|Easy||9.|Collector|Medium||
 |4.|Recon101|Hard||10.|[Iced](Iced/)|Hard|✅|
 |5.|[Phantom](Phantom/)|Easy|✅|11.|[Matryoshka](Matryoshka/)|Medium|✅|
-|6.|Cracky|Hard||12.|[QRRR!](QRRR!/)|Easy|✅|
+|6.|[Cracky](Cracky/)|Hard|✅|12.|[QRRR!](QRRR!/)|Easy|✅|
