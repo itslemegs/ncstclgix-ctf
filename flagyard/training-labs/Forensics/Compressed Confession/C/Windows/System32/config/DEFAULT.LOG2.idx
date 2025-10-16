@@ -1,0 +1,31 @@
+{
+ "ranges": [
+  {
+   "file_length": 24576,
+   "length": 24576
+  },
+  {
+   "file_offset": 24576,
+   "original_offset": 24576,
+   "file_length": 24576,
+   "length": 24576
+  },
+  {
+   "file_offset": 49152,
+   "original_offset": 49152,
+   "file_length": 49152,
+   "length": 49152
+  },
+  {
+   "file_offset": 98304,
+   "original_offset": 98304,
+   "file_length": 20480,
+   "length": 20480
+  },
+  {
+   "file_offset": 118784,
+   "original_offset": 118784,
+   "length": 77824
+  }
+ ]
+}

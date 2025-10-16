@@ -1,0 +1,37 @@
+{
+ "ranges": [
+  {
+   "file_length": 12288,
+   "length": 12288
+  },
+  {
+   "file_offset": 12288,
+   "original_offset": 12288,
+   "file_length": 36864,
+   "length": 36864
+  },
+  {
+   "file_offset": 49152,
+   "original_offset": 49152,
+   "file_length": 16384,
+   "length": 16384
+  },
+  {
+   "file_offset": 65536,
+   "original_offset": 65536,
+   "file_length": 65536,
+   "length": 65536
+  },
+  {
+   "file_offset": 131072,
+   "original_offset": 131072,
+   "file_length": 397312,
+   "length": 397312
+  },
+  {
+   "file_offset": 528384,
+   "original_offset": 528384,
+   "length": 29696
+  }
+ ]
+}
