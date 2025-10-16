@@ -11,7 +11,7 @@
 |:--:|----|:--:|:--:|:--:|----|:--:|:--:|
 |1.|JSEveryWhere|Easy||7.|CanYouSeeMe|Hard||
 |2.|PhishyNote|Hard||8.|Locked Secrets|Medium||
-|3.|Compressed Confession|Easy||9.|Collector|Medium||
+|3.|[Compressed Confession](Compressed%20Confession/)|Easy|✅|9.|Collector|Medium||
 |4.|Recon101|Hard||10.|[Iced](Iced/)|Hard|✅|
 |5.|[Phantom](Phantom/)|Easy|✅|11.|[Matryoshka](Matryoshka/)|Medium|✅|
 |6.|[Cracky](Cracky/)|Hard|✅|12.|[QRRR!](QRRR!/)|Easy|✅|
