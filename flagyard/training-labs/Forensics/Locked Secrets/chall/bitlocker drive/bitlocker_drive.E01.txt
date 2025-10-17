@@ -1,0 +1,44 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\challengeeeeee\bitlocker_drive:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 71
+ Heads: 64
+ Sectors per Track: 32
+ Bytes per Sector: 512
+ Sector Count: 145,408
+[Physical Drive Information]
+ Drive Interface Type: lsilogic
+[Image]
+ Image Type: VMWare Virtual Disk
+ Source data size: 71 MB
+ Sector count:    145408
+[Computed Hashes]
+ MD5 checksum:    a14dbeedbbe755d96f587c29b0447f9c
+ SHA1 checksum:   585ef2af93fba23e6e00a2292f99685f13750651
+
+Image Information:
+ Acquisition started:   Fri Sep  6 16:04:07 2024
+ Acquisition finished:  Fri Sep  6 16:04:08 2024
+ Segment list:
+  D:\challengeeeeee\bitlocker_drive.E01
+
+Image Verification Results:
+ Verification started:  Fri Sep  6 16:04:08 2024
+ Verification finished: Fri Sep  6 16:04:08 2024
+ MD5 checksum:    a14dbeedbbe755d96f587c29b0447f9c : verified
+ SHA1 checksum:   585ef2af93fba23e6e00a2292f99685f13750651 : verified
