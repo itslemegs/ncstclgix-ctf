@@ -9,7 +9,7 @@
 
 |No.|Challenge|Difficulty|Status|No.|Challenge|Difficulty|Status|
 |:--:|----|:--:|:--:|:--:|----|:--:|:--:|
-|1.|JSEveryWhere|Easy||7.|CanYouSeeMe|Hard||
+|1.|[JSEveryWhere](JSEveryWhere/)|Easy|✅|7.|CanYouSeeMe|Hard||
 |2.|PhishyNote|Hard||8.|[Locked Secrets](Locked%20Secrets/)|Medium|✅|
 |3.|[Compressed Confession](Compressed%20Confession/)|Easy|✅|9.|Collector|Medium||
 |4.|Recon101|Hard||10.|[Iced](Iced/)|Hard|✅|
